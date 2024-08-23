@@ -1,0 +1,80 @@
+#main{
+    height: 400px;
+    width: 300px;
+    background-color: #1B1B1B;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+#display{
+    width: 270px;
+    height: 45px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+#digit{
+    font-size: 40px;
+    text-align: right;
+    padding-top: 5px;
+    margin: 0;
+}
+
+#buttons{
+    /* border: 1px solid white; */
+    width: 270px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 15px;
+
+
+}
+
+button{
+    padding: 15px 23px;
+    font-size: 23px;
+    margin: 3px 3px;
+    border-style: none;
+    border-radius: 50%;
+    background-color: #4D4D4D;
+}
+
+#one{
+    font-size: 23px;
+}
+#eighteen{
+    padding: 15px 17px 15px 17px;
+}
+
+#three{
+    padding: 15px 17px 15px 17px;
+}
+
+#eight{
+    font-size: 28px;
+    padding: 12px 21px 13px 22px;
+}
+
+#twelve{
+    padding: 15px 23px 15px 22px;
+}
+
+#ninteen{
+    padding: 15px 24px 15px 24px;
+}
+
+#sixteen{
+    padding: 15px 20px 15px 20px;
+}
+
+.yellwo{
+    background-color: #F79000;
+}
+
+.grey{
+    background-color: #9D9D9D;
+}
